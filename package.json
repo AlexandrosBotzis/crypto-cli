@@ -1,0 +1,23 @@
+{
+  "name": "crypto-app",
+  "version": "1.0.0",
+  "description": "Node.js CLI tool for encryption purposes",
+  "main": "crypto.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexandrosBotzis/nodejs-projects.git"
+  },
+  "author": "Alexandros Botzis <alexbotzis@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexandrosBotzis/nodejs-projects/issues"
+  },
+  "homepage": "https://github.com/AlexandrosBotzis/nodejs-projects#readme",
+  "dependencies": {
+    "sha256": "^0.2.0",
+    "sha512": "0.0.1"
+  }
+}
