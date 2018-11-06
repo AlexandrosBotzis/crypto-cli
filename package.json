@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/AlexandrosBotzis/nodejs-projects#readme",
   "dependencies": {
+    "chalk": "^2.4.1",
+    "inquirer": "^6.2.0",
     "sha256": "^0.2.0",
     "sha512": "0.0.1"
   }
